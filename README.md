@@ -2,10 +2,10 @@
 
 Tasks:
 
-- [ ] Set up a Flask application
-- [ ] Create a REST API endpoint
-- [ ] Establish a database connection
-- [ ] Utilize Flask-RESTful for API structure
-- [ ] Implement JSON serialization
-- [ ] Develop a POST endpoint
-- [ ] Implement various REST methods (GET, PUT, DELETE)
+- [x] Set up a Flask application
+- [x] Create a REST API endpoint
+- [x] Establish a database connection
+- [x] Utilize Flask-RESTful for API structure
+- [x] Implement JSON serialization
+- [x] Develop a POST endpoint
+- [x] Implement various REST methods (GET, PUT, DELETE)
